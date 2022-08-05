@@ -4,7 +4,7 @@ This project is a decentralized exchange that allows to trade between two assets
 
 It could support other ERC-20 Tokens as well, just by adding the contracts.
 
-The main features of this DAPP are deposit ETH or DEX Token, Open/Put/Cancel buy/sell orders and to see a price graph and history of all.
+The main features of this DAPP are deposit ETH or DEX Token, Open/Execute/Cancel buy/sell orders and to see a price graph and history of trades and orders.
 
 ## Live version
 Go [here](https://danielruizc.com/projects/dex-token-exchange) to see it in action.
@@ -28,7 +28,8 @@ Go [here](https://danielruizc.com/projects/dex-token-exchange) to see it in acti
 >
 > ### Update project private Configuration
 > Duplicate or replace `config.env` file to `.env` and update the values/settings to your own.
-> *you can skip replacing values if don't want to push project to a public blockchain, however, the `.env` file must exist for tests to pass*
+> 
+> *you can skip replacing values if you don't want to push the project to a public blockchain, however, the `.env` file must exist for tests to pass*
 >
 > ### Test Smart Contracts
 > To check contracts are OK, you can run:
