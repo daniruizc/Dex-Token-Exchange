@@ -58,6 +58,7 @@ Go [here](https://danielruizc.com/projects/dex-token-exchange) to see it in acti
 >
 > ### Import account into Metamask
 > Import at least the first ganache account into Metamask using its private key.
+> 
 > *The first two accounts (or first four if you ran `seed-metamask.js`) will have ETH and DEX Tokens as well*
 
 ## Usage
